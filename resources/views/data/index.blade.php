@@ -15,6 +15,7 @@
         <th>Nama</th>
         <th>No. Telp</th>
         <th>Instansi</th>
+        <th>Aksi</th>
     </tr>
     @foreach ($data as $data)
     <tr>
